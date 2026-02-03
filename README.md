@@ -1,4 +1,4 @@
-# Webpack Preset
+# A tiny landing page for a car renting website
 
 
 Development Server
